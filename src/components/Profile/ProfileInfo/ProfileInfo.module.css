@@ -1,0 +1,22 @@
+.picture {
+    max-height: 200px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.avatar {
+    max-height: 100px;
+}
+.info {
+    width: 100%;
+    margin-left: 20px;
+}
+.name {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
